@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 
-<p align="center">![4FB27DE025C123ACF90706D096FAD126F703B34C](https://github.com/buraktuluceoglu/buraktuluceoglu/assets/97032292/e77ad53d-568b-455f-a80e-2ffe9601a4ab)</p>
+  ![4FB27DE025C123ACF90706D096FAD126F703B34C](https://github.com/buraktuluceoglu/buraktuluceoglu/assets/97032292/e77ad53d-568b-455f-a80e-2ffe9601a4ab)
 
 <h3 align="left"><b>About Me</b></h3>
 
