@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
+![4FB27DE025C123ACF90706D096FAD126F703B34C](https://github.com/buraktuluceoglu/buraktuluceoglu/assets/97032292/d672ed22-072f-4653-b936-5889f4bb1160)
+
+<h3 align="center">About Me</h3>
+
 - 🔭 I’m currently working on [IDOR](https://medium.com/@buraktuluceoglu/idor-insecure-direct-object-references-zafiyeti-nedir-fe59aafaaa2f)
 
-- 🌱 I’m currently learning **Prototype Pollution**
+- 🌱 I am passionate about cybersecurity and deeply involved in it. I specialize in web application security **.**
 
 - 📝 I regularly write articles on [https://medium.com/@buraktuluceoglu](https://medium.com/@buraktuluceoglu)
+
+- 📫 How to reach me **buraktuluceoglu0@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
